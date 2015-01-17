@@ -1,0 +1,6 @@
+1. C# - Pronounced "C-sharp," C# is a multi-paradigm language developed by Microsoft as part of its .NET initiative. Combining principles from C and C++, C# is a general-purpose language used to develop software for Microsoft and Windows platforms.
+2. Java -  Java is a class-based, object-oriented programming language. Java is designed to work across multiple software platforms, meaning a program written on Mac OS X, for example, could also run on Windows.
+3. PHP - PHP is a free, server-side scripting language designed for dynamic websites and app development. PHP code can be simply mixed with other code.
+4. Python - Python is a high-level, server-side scripting language for websites and mobile apps. It's considered a fairly easy language for beginners due to its readability and compact syntax, meaning developers can use fewer lines of code to express a concept than they would in other languages.
+5. Ruby - A dynamic, object-oriented scripting language for developing websites and mobile apps, Ruby was designed to be simple and easy to write.
+6. JavaScript - JavaScript is a client and server-side scripting language. It can be used across multiple web browsers and is considered essential for developing interactive or animated web functions.
