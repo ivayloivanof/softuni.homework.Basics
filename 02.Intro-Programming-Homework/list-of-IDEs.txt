@@ -1,0 +1,11 @@
+Visual Studio - Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.
+--------------------------------------------------------------------------------
+Eclipse - Eclipse is an extensible development platform with runtimes and application frameworks for building, deploying and managing software across the entire software lifecycle;
+--------------------------------------------------------------------------------
+NetBeans - A free, open-source Integrated Development Environment for software developers. You get all the tools you need to create professional desktop, enterprise, web, and mobile applications with the Java language, or PHP and other;
+--------------------------------------------------------------------------------
+MonoDevelop - MonoDevelop is a cross-platform IDE primarily designed for C# and other .NET languages. MonoDevelop enables developers to quickly write desktop and ASP.NET Web applications on Linux, Windows and Mac OSX;
+--------------------------------------------------------------------------------
+KDevelop - KDevelop is a free, open source IDE (Integrated Development Environment) for Linux, Solaris, FreeBSD, Max OS X and other Unix flavors. It is a feature-full, plugin extensible IDE for C/C++ and other;
+--------------------------------------------------------------------------------
+Anjuta - Anjuta is a versatile Integrated Development Environment (IDE) for C and C++ on GNU/Linux.

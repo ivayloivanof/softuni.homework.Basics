@@ -15,12 +15,26 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PrintMembersOfSequence",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ReformatCSharpCode", "10.ReformatCSharpCode\10.ReformatCSharpCode.csproj", "{D6D16D15-88D3-447D-89AA-2FDF37B88AE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.PrintsTheCurrentDateAndTime", "PrintsTheCurrentDateAndTime\14.PrintsTheCurrentDateAndTime.csproj", "{09841C18-73C0-4355-9180-3924927F8A84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.AgeNowAndAgeAfterTenYears", "AgeNowAndAgeAfter10Years\15.AgeNowAndAgeAfterTenYears.csproj", "{3108FA2E-F1E0-4EFE-9B79-9AA31F166E63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.PrintLongSequence", "PrintLongSequence\16.PrintLongSequence.csproj", "{029258EC-84BA-4E4D-AD7A-CB9FEFA9EEE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029258EC-84BA-4E4D-AD7A-CB9FEFA9EEE6}.Debug|x86.ActiveCfg = Debug|x86
+		{029258EC-84BA-4E4D-AD7A-CB9FEFA9EEE6}.Debug|x86.Build.0 = Debug|x86
+		{029258EC-84BA-4E4D-AD7A-CB9FEFA9EEE6}.Release|x86.ActiveCfg = Release|x86
+		{029258EC-84BA-4E4D-AD7A-CB9FEFA9EEE6}.Release|x86.Build.0 = Release|x86
+		{09841C18-73C0-4355-9180-3924927F8A84}.Debug|x86.ActiveCfg = Debug|x86
+		{09841C18-73C0-4355-9180-3924927F8A84}.Debug|x86.Build.0 = Debug|x86
+		{09841C18-73C0-4355-9180-3924927F8A84}.Release|x86.ActiveCfg = Release|x86
+		{09841C18-73C0-4355-9180-3924927F8A84}.Release|x86.Build.0 = Release|x86
 		{1222B85E-FD17-4E19-BFBD-551705DDA7B2}.Debug|x86.ActiveCfg = Debug|x86
 		{1222B85E-FD17-4E19-BFBD-551705DDA7B2}.Debug|x86.Build.0 = Debug|x86
 		{1222B85E-FD17-4E19-BFBD-551705DDA7B2}.Release|x86.ActiveCfg = Release|x86
@@ -29,6 +43,10 @@ Global
 		{210CDCB2-4637-4A5C-B33B-D99A9A9673A7}.Debug|x86.Build.0 = Debug|x86
 		{210CDCB2-4637-4A5C-B33B-D99A9A9673A7}.Release|x86.ActiveCfg = Release|x86
 		{210CDCB2-4637-4A5C-B33B-D99A9A9673A7}.Release|x86.Build.0 = Release|x86
+		{3108FA2E-F1E0-4EFE-9B79-9AA31F166E63}.Debug|x86.ActiveCfg = Debug|x86
+		{3108FA2E-F1E0-4EFE-9B79-9AA31F166E63}.Debug|x86.Build.0 = Debug|x86
+		{3108FA2E-F1E0-4EFE-9B79-9AA31F166E63}.Release|x86.ActiveCfg = Release|x86
+		{3108FA2E-F1E0-4EFE-9B79-9AA31F166E63}.Release|x86.Build.0 = Release|x86
 		{78B306B3-C3F6-495B-BA57-DB0977C56A94}.Debug|x86.ActiveCfg = Debug|x86
 		{78B306B3-C3F6-495B-BA57-DB0977C56A94}.Debug|x86.Build.0 = Debug|x86
 		{78B306B3-C3F6-495B-BA57-DB0977C56A94}.Release|x86.ActiveCfg = Release|x86
@@ -51,7 +69,7 @@ Global
 		{F0B38448-750A-40EC-84DC-876146E0F626}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = 10.ReformatCSharpCode\10.ReformatCSharpCode.csproj
+		StartupItem = PrintLongSequence\16.PrintLongSequence.csproj
 		Policies = $0
 		$0.StandardHeader = $1
 		$1.Text = 
