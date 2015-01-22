@@ -5,5 +5,6 @@ class PrintsTheCurrentDateAndTime
     {
 		DateTime currentDateTime = DateTime.Now;
         Console.WriteLine(currentDateTime);
+        Console.ReadLine();
     }
 }

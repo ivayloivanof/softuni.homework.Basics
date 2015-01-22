@@ -18,5 +18,6 @@ class PrintMembersOfSequence
 			}
 
 		}
+        Console.ReadLine();
 	}
 }

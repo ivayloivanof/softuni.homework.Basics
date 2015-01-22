@@ -12,10 +12,10 @@ class AgeNowAndAgeAfterTenYears
 		int year = Convert.ToInt32(Console.ReadLine());
 		Console.WriteLine("--------------------------");
 		Console.Write ("Month: ");
-		int month = Convert.ToInt32(Console.ReadLine ());
+		byte month = Convert.ToByte(Console.ReadLine ());
 		Console.WriteLine("--------------------------");
 		Console.Write ("Day: ");
-		int day = Convert.ToInt32(Console.ReadLine ());
+		byte day = Convert.ToByte(Console.ReadLine ());
 
 		// birth day
 		DateTime birthDay = new DateTime(year, month, day);
@@ -25,5 +25,6 @@ class AgeNowAndAgeAfterTenYears
 		Console.WriteLine("Years : " + age);
 		//print old after 10 years
 		Console.WriteLine("Age after 10 years will be: " + (age + 10));
+        Console.ReadLine();
     }
 }

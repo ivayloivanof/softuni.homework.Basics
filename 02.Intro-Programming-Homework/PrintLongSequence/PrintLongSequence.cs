@@ -18,5 +18,6 @@ class PrintLongSequence
 			}
 
 		}
+        Console.ReadLine();
 	}
 }

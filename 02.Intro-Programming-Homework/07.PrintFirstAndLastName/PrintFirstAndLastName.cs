@@ -5,5 +5,6 @@ class PrintFirstAndLastName
 	{
 		Console.WriteLine ("Ivaylo");
 		Console.WriteLine ("Ivanov");
+        Console.ReadLine();
 	}
 }
