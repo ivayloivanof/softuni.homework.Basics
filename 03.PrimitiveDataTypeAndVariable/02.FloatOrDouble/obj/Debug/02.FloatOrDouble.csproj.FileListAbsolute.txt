@@ -1,0 +1,5 @@
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

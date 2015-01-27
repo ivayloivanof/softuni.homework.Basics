@@ -1,0 +1,6 @@
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\01.DeclareVariable\bin\Debug\01.DeclareVariable.exe.config
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\01.DeclareVariable\bin\Debug\01.DeclareVariable.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\01.DeclareVariable\bin\Debug\01.DeclareVariable.pdb
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\01.DeclareVariable\obj\Debug\01.DeclareVariable.csprojResolveAssemblyReference.cache
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\01.DeclareVariable\obj\Debug\01.DeclareVariable.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\01.DeclareVariable\obj\Debug\01.DeclareVariable.pdb
