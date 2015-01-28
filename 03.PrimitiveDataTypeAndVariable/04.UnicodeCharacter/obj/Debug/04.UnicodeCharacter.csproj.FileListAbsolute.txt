@@ -1,0 +1,5 @@
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

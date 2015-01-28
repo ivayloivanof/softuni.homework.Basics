@@ -1,0 +1,5 @@
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\06.StringAndObjects\bin\Debug\06.StringAndObjects.exe.config
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\06.StringAndObjects\bin\Debug\06.StringAndObjects.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\06.StringAndObjects\bin\Debug\06.StringAndObjects.pdb
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\06.StringAndObjects\obj\Debug\06.StringAndObjects.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\06.StringAndObjects\obj\Debug\06.StringAndObjects.pdb

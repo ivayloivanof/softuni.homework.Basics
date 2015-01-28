@@ -1,0 +1,5 @@
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.pdb
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb

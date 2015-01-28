@@ -1,0 +1,5 @@
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

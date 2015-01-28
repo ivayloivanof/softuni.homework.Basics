@@ -1,0 +1,5 @@
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\07.QuotesOfString\bin\Debug\07.QuotesOfString.exe.config
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\07.QuotesOfString\bin\Debug\07.QuotesOfString.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\07.QuotesOfString\bin\Debug\07.QuotesOfString.pdb
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\07.QuotesOfString\obj\Debug\07.QuotesOfString.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\07.QuotesOfString\obj\Debug\07.QuotesOfString.pdb

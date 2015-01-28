@@ -1,0 +1,5 @@
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\03.VariableHexadecimalFormat\bin\Debug\03.VariableHexadecimalFormat.exe.config
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\03.VariableHexadecimalFormat\bin\Debug\03.VariableHexadecimalFormat.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\03.VariableHexadecimalFormat\bin\Debug\03.VariableHexadecimalFormat.pdb
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\03.VariableHexadecimalFormat\obj\Debug\03.VariableHexadecimalFormat.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\03.VariableHexadecimalFormat\obj\Debug\03.VariableHexadecimalFormat.pdb
