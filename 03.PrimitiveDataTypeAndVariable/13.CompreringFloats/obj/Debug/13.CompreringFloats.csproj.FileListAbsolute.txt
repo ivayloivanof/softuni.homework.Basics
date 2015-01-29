@@ -1,0 +1,6 @@
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\13.CompreringFloats\bin\Debug\13.CompreringFloats.exe.config
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\13.CompreringFloats\bin\Debug\13.CompreringFloats.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\13.CompreringFloats\bin\Debug\13.CompreringFloats.pdb
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\13.CompreringFloats\obj\Debug\13.CompreringFloats.csprojResolveAssemblyReference.cache
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\13.CompreringFloats\obj\Debug\13.CompreringFloats.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\13.CompreringFloats\obj\Debug\13.CompreringFloats.pdb

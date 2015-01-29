@@ -1,0 +1,5 @@
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\14.PrintTheAsciiTable\bin\Debug\14.PrintTheAsciiTable.exe.config
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\14.PrintTheAsciiTable\bin\Debug\14.PrintTheAsciiTable.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\14.PrintTheAsciiTable\bin\Debug\14.PrintTheAsciiTable.pdb
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\14.PrintTheAsciiTable\obj\Debug\14.PrintTheAsciiTable.exe
+C:\Users\n1p3ha\Documents\GitHub\softuni.homework\03.PrimitiveDataTypeAndVariable\14.PrintTheAsciiTable\obj\Debug\14.PrintTheAsciiTable.pdb
