@@ -1,0 +1,12 @@
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.exe.config
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.pdb
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.csprojResolveAssemblyReference.cache

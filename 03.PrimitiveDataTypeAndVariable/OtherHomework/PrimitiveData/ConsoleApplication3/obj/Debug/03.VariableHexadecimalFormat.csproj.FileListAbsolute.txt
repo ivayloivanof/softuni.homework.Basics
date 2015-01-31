@@ -1,0 +1,3 @@
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveData\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveData\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveData\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

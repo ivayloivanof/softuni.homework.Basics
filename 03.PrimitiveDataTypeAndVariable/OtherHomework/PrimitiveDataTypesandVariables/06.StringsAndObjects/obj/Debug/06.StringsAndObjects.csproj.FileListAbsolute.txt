@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

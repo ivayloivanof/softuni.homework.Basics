@@ -1,0 +1,5 @@
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

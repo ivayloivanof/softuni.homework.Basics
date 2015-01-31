@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe.config
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.pdb
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.pdb

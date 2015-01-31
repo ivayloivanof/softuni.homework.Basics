@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\DeclareVariables1\bin\Debug\DeclareVariables1.exe.config
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\DeclareVariables1\bin\Debug\DeclareVariables1.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\DeclareVariables1\bin\Debug\DeclareVariables1.pdb
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\DeclareVariables1\obj\Debug\01DlareVariables.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\DeclareVariables1\obj\Debug\DeclareVariables1.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\DeclareVariables1\obj\Debug\DeclareVariables1.pdb

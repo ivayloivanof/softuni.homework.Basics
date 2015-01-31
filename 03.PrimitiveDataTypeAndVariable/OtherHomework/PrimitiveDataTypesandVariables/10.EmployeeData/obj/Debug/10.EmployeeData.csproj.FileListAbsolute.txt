@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\10.EmployeeData\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\UnicodeCharacter\obj\Debug\03.UnicodeCharacter.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

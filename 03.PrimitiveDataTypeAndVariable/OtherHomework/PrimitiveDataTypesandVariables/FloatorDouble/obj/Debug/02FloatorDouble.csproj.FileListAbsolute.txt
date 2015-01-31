@@ -1,0 +1,3 @@
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\FloatorDouble\bin\Debug\FloatorDouble.exe.config
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\FloatorDouble\obj\Debug\FloatorDouble.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\FloatorDouble\obj\Debug\FloatorDouble.pdb

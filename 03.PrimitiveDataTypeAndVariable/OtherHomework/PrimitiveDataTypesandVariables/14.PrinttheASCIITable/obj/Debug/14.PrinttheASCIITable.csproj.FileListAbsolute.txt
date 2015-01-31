@@ -1,0 +1,10 @@
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\14.PrinttheASCIITable\bin\Debug\14.PrinttheASCIITable.exe.config
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\14.PrinttheASCIITable\bin\Debug\14.PrinttheASCIITable.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\14.PrinttheASCIITable\bin\Debug\14.PrinttheASCIITable.pdb
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\14.PrinttheASCIITable\obj\Debug\14.PrinttheASCIITable.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\14.PrinttheASCIITable\obj\Debug\14.PrinttheASCIITable.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\14.PrinttheASCIITable\bin\Debug\14.PrinttheASCIITable.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\14.PrinttheASCIITable\obj\Debug\14.PrinttheASCIITable.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\14.PrinttheASCIITable\obj\Debug\14.PrinttheASCIITable.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\14.PrinttheASCIITable\bin\Debug\14.PrinttheASCIITable.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\14.PrinttheASCIITable\bin\Debug\14.PrinttheASCIITable.pdb

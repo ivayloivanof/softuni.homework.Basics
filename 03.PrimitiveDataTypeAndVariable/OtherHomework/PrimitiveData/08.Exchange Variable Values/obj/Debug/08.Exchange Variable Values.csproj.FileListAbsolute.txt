@@ -1,0 +1,5 @@
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\08.Exchange Variable Values\bin\Debug\08.Exchange Variable Values.exe.config
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\08.Exchange Variable Values\bin\Debug\08.Exchange Variable Values.exe
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\08.Exchange Variable Values\bin\Debug\08.Exchange Variable Values.pdb
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\08.Exchange Variable Values\obj\Debug\08.Exchange Variable Values.exe
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\08.Exchange Variable Values\obj\Debug\08.Exchange Variable Values.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\VariableinHexaFormat\bin\Debug\VariableinHexaFormat.exe.config
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\VariableinHexaFormat\obj\Debug\VariableinHexaFormat.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\VariableinHexaFormat\obj\Debug\VariableinHexaFormat.pdb
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\VariableinHexaFormat\bin\Debug\VariableinHexaFormat.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\VariableinHexaFormat\bin\Debug\VariableinHexaFormat.pdb
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\VariableinHexaFormat\obj\Debug\04.VariableinHexaFor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\04\bin\Debug\04.exe.config
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\04\obj\Debug\04.exe
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\04\obj\Debug\04.pdb
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\04\bin\Debug\04.exe
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\04\bin\Debug\04.pdb

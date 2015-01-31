@@ -1,0 +1,10 @@
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb

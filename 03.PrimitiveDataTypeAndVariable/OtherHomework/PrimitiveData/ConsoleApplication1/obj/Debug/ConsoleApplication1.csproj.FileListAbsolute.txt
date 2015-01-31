@@ -1,0 +1,6 @@
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\core i7 pavilion 15\documents\visual studio 2013\Projects\HOMEWORK 03\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

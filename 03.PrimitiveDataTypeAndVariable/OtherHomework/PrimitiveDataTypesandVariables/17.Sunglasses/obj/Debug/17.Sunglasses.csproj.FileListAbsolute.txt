@@ -1,0 +1,8 @@
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\17.Sunglasses\bin\Debug\17.Sunglasses.exe.config
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\17.Sunglasses\bin\Debug\17.Sunglasses.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\17.Sunglasses\bin\Debug\17.Sunglasses.pdb
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\17.Sunglasses\obj\Debug\17.Sunglasses.exe
+C:\Users\Vasko\Desktop\VisualPrograms\PrimitiveDataTypesandVariables\17.Sunglasses\obj\Debug\17.Sunglasses.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\17.Sunglasses\bin\Debug\17.Sunglasses.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\17.Sunglasses\obj\Debug\17.Sunglasses.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables\17.Sunglasses\obj\Debug\17.Sunglasses.pdb
