@@ -1,0 +1,6 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\05.ThirdDigit7\bin\Debug\05.ThirdDigit7.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\05.ThirdDigit7\obj\Debug\05.ThirdDigit7.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\05.ThirdDigit7\bin\Debug\05.ThirdDigit7.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\05.ThirdDigit7\bin\Debug\05.ThirdDigit7.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\05.ThirdDigit7\obj\Debug\05.ThirdDigit7.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\05.ThirdDigit7\obj\Debug\05.ThirdDigit7.pdb

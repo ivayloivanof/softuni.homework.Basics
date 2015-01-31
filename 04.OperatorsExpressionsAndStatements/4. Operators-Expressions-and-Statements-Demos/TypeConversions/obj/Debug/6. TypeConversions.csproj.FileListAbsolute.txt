@@ -1,0 +1,1 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\4. Operators-Expressions-and-Statements-Demos\TypeConversions\bin\Debug\TypeConversions.exe.config

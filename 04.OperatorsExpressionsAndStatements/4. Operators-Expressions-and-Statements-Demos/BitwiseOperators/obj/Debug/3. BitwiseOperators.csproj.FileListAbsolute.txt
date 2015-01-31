@@ -1,0 +1,6 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\4. Operators-Expressions-and-Statements-Demos\BitwiseOperators\bin\Debug\BitwiseOperators.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\4. Operators-Expressions-and-Statements-Demos\BitwiseOperators\bin\Debug\BitwiseOperators.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\4. Operators-Expressions-and-Statements-Demos\BitwiseOperators\bin\Debug\BitwiseOperators.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\4. Operators-Expressions-and-Statements-Demos\BitwiseOperators\obj\Debug\3. BitwiseOperators.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\4. Operators-Expressions-and-Statements-Demos\BitwiseOperators\obj\Debug\BitwiseOperators.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\4. Operators-Expressions-and-Statements-Demos\BitwiseOperators\obj\Debug\BitwiseOperators.pdb

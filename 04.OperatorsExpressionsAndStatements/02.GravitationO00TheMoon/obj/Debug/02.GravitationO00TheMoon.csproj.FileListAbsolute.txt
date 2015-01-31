@@ -1,0 +1,5 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\02.GravitationO00TheMoon\bin\Debug\02.GravitationO00TheMoon.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\02.GravitationO00TheMoon\bin\Debug\02.GravitationO00TheMoon.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\02.GravitationO00TheMoon\bin\Debug\02.GravitationO00TheMoon.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\02.GravitationO00TheMoon\obj\Debug\02.GravitationO00TheMoon.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\02.GravitationO00TheMoon\obj\Debug\02.GravitationO00TheMoon.pdb
