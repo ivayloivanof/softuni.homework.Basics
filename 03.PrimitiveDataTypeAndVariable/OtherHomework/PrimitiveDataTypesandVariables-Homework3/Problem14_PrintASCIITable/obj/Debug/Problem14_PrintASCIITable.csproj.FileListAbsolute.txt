@@ -1,0 +1,7 @@
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem14_PrintASCIITable\bin\Debug\Problem14_PrintASCIITable.exe
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem14_PrintASCIITable\bin\Debug\Problem14_PrintASCIITable.pdb
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem14_PrintASCIITable\obj\Debug\Problem14_PrintASCIITable.csprojResolveAssemblyReference.cache
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem14_PrintASCIITable\obj\Debug\Problem14_PrintASCIITable.exe
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem14_PrintASCIITable\obj\Debug\Problem14_PrintASCIITable.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem14_PrintASCIITable\obj\Debug\Problem14_PrintASCIITable.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem14_PrintASCIITable\obj\Debug\Problem14_PrintASCIITable.pdb

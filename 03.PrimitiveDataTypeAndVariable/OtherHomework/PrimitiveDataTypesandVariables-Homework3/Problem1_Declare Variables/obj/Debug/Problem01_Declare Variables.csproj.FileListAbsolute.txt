@@ -1,0 +1,8 @@
+c:\users\doneviv\documents\visual studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem1_Declare Variables\obj\Debug\Problem1_Declare Variables.exe
+c:\users\doneviv\documents\visual studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem1_Declare Variables\obj\Debug\Problem1_Declare Variables.pdb
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem1_Declare Variables\bin\Debug\Problem1_Declare Variables.exe
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem1_Declare Variables\bin\Debug\Problem1_Declare Variables.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem1_Declare Variables\obj\Debug\Problem1_Declare Variables.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem1_Declare Variables\obj\Debug\Problem1_Declare Variables.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem1_Declare Variables\bin\Debug\Problem1_Declare Variables.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem1_Declare Variables\bin\Debug\Problem1_Declare Variables.pdb

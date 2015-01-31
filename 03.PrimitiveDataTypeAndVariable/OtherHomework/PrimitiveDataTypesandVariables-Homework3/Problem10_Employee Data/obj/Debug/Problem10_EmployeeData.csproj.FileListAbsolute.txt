@@ -1,0 +1,7 @@
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem10_Employee Data\bin\Debug\Problem10_Employee Data.exe
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem10_Employee Data\bin\Debug\Problem10_Employee Data.pdb
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem10_Employee Data\obj\Debug\Problem10_EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem10_Employee Data\obj\Debug\Problem10_Employee Data.exe
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem10_Employee Data\obj\Debug\Problem10_Employee Data.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem10_Employee Data\obj\Debug\Problem10_Employee Data.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem10_Employee Data\obj\Debug\Problem10_Employee Data.pdb

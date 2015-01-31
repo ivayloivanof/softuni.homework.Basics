@@ -1,0 +1,7 @@
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem12_NullValuesArithmetic\bin\Debug\Problem12_NullValuesArithmetic.exe
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem12_NullValuesArithmetic\bin\Debug\Problem12_NullValuesArithmetic.pdb
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem12_NullValuesArithmetic\obj\Debug\Problem12_NullValuesArithmetic.csprojResolveAssemblyReference.cache
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem12_NullValuesArithmetic\obj\Debug\Problem12_NullValuesArithmetic.exe
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem12_NullValuesArithmetic\obj\Debug\Problem12_NullValuesArithmetic.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem12_NullValuesArithmetic\obj\Debug\Problem12_NullValuesArithmetic.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem12_NullValuesArithmetic\obj\Debug\Problem12_NullValuesArithmetic.pdb

@@ -1,0 +1,7 @@
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem11_BankAccountData\bin\Debug\Problem11_BankAccountData.exe
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem11_BankAccountData\bin\Debug\Problem11_BankAccountData.pdb
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem11_BankAccountData\obj\Debug\Problem11_BankAccountData.csprojResolveAssemblyReference.cache
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem11_BankAccountData\obj\Debug\Problem11_BankAccountData.exe
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem11_BankAccountData\obj\Debug\Problem11_BankAccountData.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem11_BankAccountData\obj\Debug\Problem11_BankAccountData.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem11_BankAccountData\obj\Debug\Problem11_BankAccountData.pdb

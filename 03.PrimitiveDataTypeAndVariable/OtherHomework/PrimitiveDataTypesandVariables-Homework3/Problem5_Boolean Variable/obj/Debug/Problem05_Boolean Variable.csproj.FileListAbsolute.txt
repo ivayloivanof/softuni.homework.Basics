@@ -1,0 +1,4 @@
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem5_Boolean Variable\obj\Debug\Problem5_Boolean Variable.exe
+C:\Users\doneviv\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariables-Homework3\Problem5_Boolean Variable\obj\Debug\Problem5_Boolean Variable.pdb
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem5_Boolean Variable\obj\Debug\Problem5_Boolean Variable.exe
+C:\Users\Ivaylo Ivanov\Downloads\PrimitiveDataTypesandVariables-Homework3\Problem5_Boolean Variable\obj\Debug\Problem5_Boolean Variable.pdb
