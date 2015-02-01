@@ -1,0 +1,6 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\10.PointInCircOutRect\bin\Debug\10.PointInCircOutRect.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\10.PointInCircOutRect\bin\Debug\10.PointInCircOutRect.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\10.PointInCircOutRect\bin\Debug\10.PointInCircOutRect.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\10.PointInCircOutRect\obj\Debug\10.PointInCircOutRect.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\10.PointInCircOutRect\obj\Debug\10.PointInCircOutRect.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\10.PointInCircOutRect\obj\Debug\10.PointInCircOutRect.pdb

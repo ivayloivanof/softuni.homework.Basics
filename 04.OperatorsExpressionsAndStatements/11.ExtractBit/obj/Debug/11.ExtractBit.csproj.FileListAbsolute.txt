@@ -1,0 +1,5 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\11.ExtractBit\bin\Debug\11.ExtractBit.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\11.ExtractBit\bin\Debug\11.ExtractBit.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\11.ExtractBit\bin\Debug\11.ExtractBit.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\11.ExtractBit\obj\Debug\11.ExtractBit.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\11.ExtractBit\obj\Debug\11.ExtractBit.pdb
