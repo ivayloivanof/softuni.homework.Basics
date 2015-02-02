@@ -1,0 +1,6 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\13.ModifyBitAtGivenPosition\bin\Debug\13.ModifyBitAtGivenPosition.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\13.ModifyBitAtGivenPosition\bin\Debug\13.ModifyBitAtGivenPosition.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\13.ModifyBitAtGivenPosition\bin\Debug\13.ModifyBitAtGivenPosition.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\13.ModifyBitAtGivenPosition\obj\Debug\13.ModifyBitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\13.ModifyBitAtGivenPosition\obj\Debug\13.ModifyBitAtGivenPosition.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\13.ModifyBitAtGivenPosition\obj\Debug\13.ModifyBitAtGivenPosition.pdb

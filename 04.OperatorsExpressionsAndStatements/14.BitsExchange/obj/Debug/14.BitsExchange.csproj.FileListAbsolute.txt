@@ -1,0 +1,5 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\14.BitsExchange\bin\Debug\14.BitsExchange.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\14.BitsExchange\bin\Debug\14.BitsExchange.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\14.BitsExchange\bin\Debug\14.BitsExchange.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\14.BitsExchange\obj\Debug\14.BitsExchange.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\04.OperatorsExpressionsAndStatements\14.BitsExchange\obj\Debug\14.BitsExchange.pdb

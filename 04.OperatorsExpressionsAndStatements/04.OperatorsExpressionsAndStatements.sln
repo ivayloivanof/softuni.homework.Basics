@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11a.ExtractBitFromInteger",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.CheckABitAtGivenPosition", "13.CheckABitAtGivenPosition\12.CheckABitAtGivenPosition.csproj", "{AD8AA035-AAB0-4F19-8D62-8508B02F1EB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.ModifyBitAtGivenPosition", "13.ModifyBitAtGivenPosition\13.ModifyBitAtGivenPosition.csproj", "{C4B05219-C866-4EF6-9F8B-7E388F4D1C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.BitsExchange", "14.BitsExchange\14.BitsExchange.csproj", "{C4EA4624-FFD7-47A9-8135-99A8CB8F08E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{AD8AA035-AAB0-4F19-8D62-8508B02F1EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD8AA035-AAB0-4F19-8D62-8508B02F1EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD8AA035-AAB0-4F19-8D62-8508B02F1EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B05219-C866-4EF6-9F8B-7E388F4D1C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B05219-C866-4EF6-9F8B-7E388F4D1C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B05219-C866-4EF6-9F8B-7E388F4D1C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B05219-C866-4EF6-9F8B-7E388F4D1C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4EA4624-FFD7-47A9-8135-99A8CB8F08E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4EA4624-FFD7-47A9-8135-99A8CB8F08E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4EA4624-FFD7-47A9-8135-99A8CB8F08E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4EA4624-FFD7-47A9-8135-99A8CB8F08E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
