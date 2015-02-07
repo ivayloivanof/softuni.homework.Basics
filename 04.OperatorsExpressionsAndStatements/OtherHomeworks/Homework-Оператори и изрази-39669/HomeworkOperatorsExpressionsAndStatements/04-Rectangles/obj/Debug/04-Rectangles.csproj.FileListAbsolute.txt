@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\04-Rectangles\bin\Debug\04-Rectangles.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\04-Rectangles\bin\Debug\04-Rectangles.exe
+c:\users\user\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\04-Rectangles\bin\Debug\04-Rectangles.pdb
+c:\users\user\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\04-Rectangles\obj\Debug\04-Rectangles.exe
+c:\users\user\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\04-Rectangles\obj\Debug\04-Rectangles.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39669\HomeworkOperatorsExpressionsAndStatements\04-Rectangles\bin\Debug\04-Rectangles.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39669\HomeworkOperatorsExpressionsAndStatements\04-Rectangles\obj\Debug\04-Rectangles.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39669\HomeworkOperatorsExpressionsAndStatements\04-Rectangles\obj\Debug\04-Rectangles.pdb

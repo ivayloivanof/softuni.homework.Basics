@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\03-DivideBy7And5\bin\Debug\03-DivideBy7And5.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\03-DivideBy7And5\bin\Debug\03-DivideBy7And5.exe
+c:\users\user\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\03-DivideBy7And5\bin\Debug\03-DivideBy7And5.pdb
+c:\users\user\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\03-DivideBy7And5\obj\Debug\03-DivideBy7And5.exe
+c:\users\user\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\03-DivideBy7And5\obj\Debug\03-DivideBy7And5.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39669\HomeworkOperatorsExpressionsAndStatements\03-DivideBy7And5\bin\Debug\03-DivideBy7And5.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39669\HomeworkOperatorsExpressionsAndStatements\03-DivideBy7And5\obj\Debug\03-DivideBy7And5.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39669\HomeworkOperatorsExpressionsAndStatements\03-DivideBy7And5\obj\Debug\03-DivideBy7And5.pdb

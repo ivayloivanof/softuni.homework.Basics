@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\bin\Debug\05-ThirdNumber.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\bin\Debug\05-ThirdNumber.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\bin\Debug\05-ThirdNumber.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\obj\Debug\05-ThirdNumber.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\obj\Debug\05-ThirdNumber.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\obj\Debug\05-ThirdNumber.pdb

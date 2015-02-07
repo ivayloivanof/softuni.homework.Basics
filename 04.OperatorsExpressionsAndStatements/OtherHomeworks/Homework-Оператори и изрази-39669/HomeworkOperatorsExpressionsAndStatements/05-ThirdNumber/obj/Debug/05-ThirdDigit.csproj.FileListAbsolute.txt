@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\bin\Debug\05-ThirdNumber.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\bin\Debug\05-ThirdNumber.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\bin\Debug\05-ThirdNumber.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\obj\Debug\05-ThirdNumber.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\obj\Debug\05-ThirdNumber.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39669\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\bin\Debug\05-ThirdNumber.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39669\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\obj\Debug\05-ThirdNumber.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39669\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\obj\Debug\05-ThirdNumber.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39669\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\bin\Debug\05-ThirdNumber.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39669\HomeworkOperatorsExpressionsAndStatements\05-ThirdNumber\bin\Debug\05-ThirdNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\20-BitsUp\bin\Debug\20-BitsUp.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\20-BitsUp\bin\Debug\20-BitsUp.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\20-BitsUp\bin\Debug\20-BitsUp.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\20-BitsUp\obj\Debug\20-BitsUp.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\20-BitsUp\obj\Debug\20-BitsUp.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\20-BitsUp\obj\Debug\20-BitsUp.pdb

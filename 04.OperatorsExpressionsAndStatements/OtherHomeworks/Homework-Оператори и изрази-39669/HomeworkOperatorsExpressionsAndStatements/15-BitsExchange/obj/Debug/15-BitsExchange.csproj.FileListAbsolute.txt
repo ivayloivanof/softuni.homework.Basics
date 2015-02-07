@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\15-BitsExchange\bin\Debug\15-BitsExchange.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\15-BitsExchange\bin\Debug\15-BitsExchange.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\15-BitsExchange\bin\Debug\15-BitsExchange.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\15-BitsExchange\obj\Debug\15-BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\15-BitsExchange\obj\Debug\15-BitsExchange.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\15-BitsExchange\obj\Debug\15-BitsExchange.pdb
