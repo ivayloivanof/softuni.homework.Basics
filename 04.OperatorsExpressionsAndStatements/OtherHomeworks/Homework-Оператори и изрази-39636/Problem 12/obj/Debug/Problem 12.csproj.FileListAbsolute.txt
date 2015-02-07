@@ -1,0 +1,8 @@
+D:\Soft Uni\Operators Expressions and Statements\Problem 12\bin\Debug\Problem 12.exe.config
+D:\Soft Uni\Operators Expressions and Statements\Problem 12\bin\Debug\Problem 12.exe
+D:\Soft Uni\Operators Expressions and Statements\Problem 12\bin\Debug\Problem 12.pdb
+D:\Soft Uni\Operators Expressions and Statements\Problem 12\obj\Debug\Problem 12.exe
+D:\Soft Uni\Operators Expressions and Statements\Problem 12\obj\Debug\Problem 12.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39636\Problem 12\bin\Debug\Problem 12.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39636\Problem 12\obj\Debug\Problem 12.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39636\Problem 12\obj\Debug\Problem 12.pdb

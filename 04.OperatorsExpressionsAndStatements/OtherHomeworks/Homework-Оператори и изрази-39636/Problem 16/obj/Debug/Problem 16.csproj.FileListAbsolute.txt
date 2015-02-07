@@ -1,0 +1,9 @@
+D:\Soft Uni\Operators Expressions and Statements\Problem 16\bin\Debug\Problem 16.exe.config
+D:\Soft Uni\Operators Expressions and Statements\Problem 16\bin\Debug\Problem 16.exe
+D:\Soft Uni\Operators Expressions and Statements\Problem 16\bin\Debug\Problem 16.pdb
+D:\Soft Uni\Operators Expressions and Statements\Problem 16\obj\Debug\Problem 16.csprojResolveAssemblyReference.cache
+D:\Soft Uni\Operators Expressions and Statements\Problem 16\obj\Debug\Problem 16.exe
+D:\Soft Uni\Operators Expressions and Statements\Problem 16\obj\Debug\Problem 16.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39636\Problem 16\bin\Debug\Problem 16.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39636\Problem 16\obj\Debug\Problem 16.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39636\Problem 16\obj\Debug\Problem 16.pdb

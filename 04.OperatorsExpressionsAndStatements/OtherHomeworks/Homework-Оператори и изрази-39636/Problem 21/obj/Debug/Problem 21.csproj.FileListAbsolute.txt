@@ -1,0 +1,6 @@
+D:\Soft Uni\Operators Expressions and Statements\Problem 21\bin\Debug\Problem 21.exe.config
+D:\Soft Uni\Operators Expressions and Statements\Problem 21\bin\Debug\Problem 21.exe
+D:\Soft Uni\Operators Expressions and Statements\Problem 21\bin\Debug\Problem 21.pdb
+D:\Soft Uni\Operators Expressions and Statements\Problem 21\obj\Debug\Problem 21.exe
+D:\Soft Uni\Operators Expressions and Statements\Problem 21\obj\Debug\Problem 21.pdb
+D:\Soft Uni\Operators Expressions and Statements\Problem 21\obj\Debug\Problem 21.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Soft Uni\Operators Expressions and Statements\Problem 7\bin\Debug\Problem 7.exe.config
+D:\Soft Uni\Operators Expressions and Statements\Problem 7\bin\Debug\Problem 7.exe
+D:\Soft Uni\Operators Expressions and Statements\Problem 7\bin\Debug\Problem 7.pdb
+D:\Soft Uni\Operators Expressions and Statements\Problem 7\obj\Debug\Problem 7.exe
+D:\Soft Uni\Operators Expressions and Statements\Problem 7\obj\Debug\Problem 7.pdb

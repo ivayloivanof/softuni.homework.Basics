@@ -1,0 +1,8 @@
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingStrings\bin\Debug\ReadingStrings.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingStrings\bin\Debug\ReadingStrings.pdb
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingStrings\obj\Debug\4. ReadingStrings.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingStrings\obj\Debug\ReadingStrings.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingStrings\obj\Debug\ReadingStrings.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\5. Console-Input-Output-Demos\ReadingStrings\bin\Debug\ReadingStrings.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\5. Console-Input-Output-Demos\ReadingStrings\obj\Debug\ReadingStrings.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\5. Console-Input-Output-Demos\ReadingStrings\obj\Debug\ReadingStrings.pdb

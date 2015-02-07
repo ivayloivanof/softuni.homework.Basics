@@ -1,0 +1,3 @@
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39636\Problem 9\bin\Debug\Problem 9.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39636\Problem 9\obj\Debug\Problem 9.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39636\Problem 9\obj\Debug\Problem 9.pdb
