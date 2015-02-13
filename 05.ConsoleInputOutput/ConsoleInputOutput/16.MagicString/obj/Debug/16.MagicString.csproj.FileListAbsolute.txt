@@ -1,0 +1,6 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\16.MagicString\bin\Debug\16.MagicString.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\16.MagicString\bin\Debug\16.MagicString.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\16.MagicString\bin\Debug\16.MagicString.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\16.MagicString\obj\Debug\16.MagicString.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\16.MagicString\obj\Debug\16.MagicString.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\16.MagicString\obj\Debug\16.MagicString.pdb

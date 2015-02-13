@@ -1,0 +1,9 @@
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\Rectangles\obj\Debug\Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\Rectangles\obj\Debug\Rectangles.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\Rectangles\obj\Debug\Rectangles.pdb

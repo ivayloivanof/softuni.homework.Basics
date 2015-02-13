@@ -1,0 +1,9 @@
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\DividedWith5And7\bin\Debug\DividedWith5And7.exe.config
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\DividedWith5And7\bin\Debug\DividedWith5And7.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\DividedWith5And7\bin\Debug\DividedWith5And7.pdb
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\DividedWith5And7\obj\Debug\DividedWith5And7.csprojResolveAssemblyReference.cache
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\DividedWith5And7\obj\Debug\DividedWith5And7.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\DividedWith5And7\obj\Debug\DividedWith5And7.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\DividedWith5And7\bin\Debug\DividedWith5And7.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\DividedWith5And7\obj\Debug\DividedWith5And7.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\DividedWith5And7\obj\Debug\DividedWith5And7.pdb

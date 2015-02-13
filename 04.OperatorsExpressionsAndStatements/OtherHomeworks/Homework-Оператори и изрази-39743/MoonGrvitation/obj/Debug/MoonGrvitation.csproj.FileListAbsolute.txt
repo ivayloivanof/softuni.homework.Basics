@@ -1,0 +1,9 @@
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\MoonGrvitation\bin\Debug\MoonGrvitation.exe.config
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\MoonGrvitation\bin\Debug\MoonGrvitation.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\MoonGrvitation\obj\Debug\MoonGrvitation.csprojResolveAssemblyReference.cache
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\MoonGrvitation\obj\Debug\MoonGrvitation.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\MoonGrvitation\obj\Debug\MoonGrvitation.pdb
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\MoonGrvitation\bin\Debug\MoonGrvitation.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\MoonGrvitation\bin\Debug\MoonGrvitation.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\MoonGrvitation\obj\Debug\MoonGrvitation.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\MoonGrvitation\obj\Debug\MoonGrvitation.pdb

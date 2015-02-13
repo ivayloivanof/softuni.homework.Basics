@@ -1,0 +1,8 @@
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\11.NumbersIntervalDividableGivenNumber\bin\Debug\11.NumbersIntervalDividableGivenNumber.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\11.NumbersIntervalDividableGivenNumber\bin\Debug\11.NumbersIntervalDividableGivenNumber.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\11.NumbersIntervalDividableGivenNumber\bin\Debug\11.NumbersIntervalDividableGivenNumber.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\11.NumbersIntervalDividableGivenNumber\obj\Debug\11.NumbersIntervalDividableGivenNumber.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\11.NumbersIntervalDividableGivenNumber\obj\Debug\11.NumbersIntervalDividableGivenNumber.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\11.NumbersIntervalDividableGivenNumber\obj\Debug\11.NumbersIntervalDividableGivenNumber.pdb

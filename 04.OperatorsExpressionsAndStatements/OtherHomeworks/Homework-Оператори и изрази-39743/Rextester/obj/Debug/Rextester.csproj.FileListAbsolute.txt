@@ -1,0 +1,9 @@
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\Rextester\bin\Debug\Rextester.exe.config
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\Rextester\bin\Debug\Rextester.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\Rextester\obj\Debug\Rextester.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\Rextester\obj\Debug\Rextester.pdb
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\Rextester\bin\Debug\Rextester.pdb
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\Rextester\obj\Debug\Rextester.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\Rextester\bin\Debug\Rextester.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\Rextester\obj\Debug\Rextester.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\Rextester\obj\Debug\Rextester.pdb

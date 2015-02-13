@@ -3,3 +3,4 @@ C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\
 C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
 C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
 C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache

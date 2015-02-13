@@ -1,0 +1,9 @@
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\PointInCircle\bin\Debug\PointInCircle.exe.config
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\PointInCircle\obj\Debug\PointInCircle.csprojResolveAssemblyReference.cache
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\PointInCircle\bin\Debug\PointInCircle.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\PointInCircle\bin\Debug\PointInCircle.pdb
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\PointInCircle\obj\Debug\PointInCircle.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\PointInCircle\obj\Debug\PointInCircle.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\PointInCircle\bin\Debug\PointInCircle.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\PointInCircle\obj\Debug\PointInCircle.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\PointInCircle\obj\Debug\PointInCircle.pdb

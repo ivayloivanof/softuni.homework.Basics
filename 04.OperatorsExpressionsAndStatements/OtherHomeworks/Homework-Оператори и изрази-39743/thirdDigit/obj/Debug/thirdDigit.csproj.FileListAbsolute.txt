@@ -1,0 +1,8 @@
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\thirdDigit\bin\Debug\thirdDigit.exe.config
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\thirdDigit\bin\Debug\thirdDigit.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\thirdDigit\bin\Debug\thirdDigit.pdb
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\thirdDigit\obj\Debug\thirdDigit.exe
+C:\Users\Petya\Desktop\homework4\FourthHomeWork\thirdDigit\obj\Debug\thirdDigit.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\thirdDigit\bin\Debug\thirdDigit.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\thirdDigit\obj\Debug\thirdDigit.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Оператори и изрази-39743\homework4\FourthHomeWork\thirdDigit\obj\Debug\thirdDigit.pdb
