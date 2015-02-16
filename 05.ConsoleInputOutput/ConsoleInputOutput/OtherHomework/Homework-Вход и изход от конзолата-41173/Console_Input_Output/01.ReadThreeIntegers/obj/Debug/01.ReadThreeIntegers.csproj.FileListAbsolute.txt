@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\4\Console_Input_Output\01.ReadThreeIntegers\bin\Debug\01.ReadThreeIntegers.exe.config
+C:\Users\Administrator\Desktop\4\Console_Input_Output\01.ReadThreeIntegers\bin\Debug\01.ReadThreeIntegers.exe
+C:\Users\Administrator\Desktop\4\Console_Input_Output\01.ReadThreeIntegers\bin\Debug\01.ReadThreeIntegers.pdb
+C:\Users\Administrator\Desktop\4\Console_Input_Output\01.ReadThreeIntegers\obj\Debug\01.ReadThreeIntegers.exe
+C:\Users\Administrator\Desktop\4\Console_Input_Output\01.ReadThreeIntegers\obj\Debug\01.ReadThreeIntegers.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\01.ReadThreeIntegers\bin\Debug\01.ReadThreeIntegers.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\01.ReadThreeIntegers\obj\Debug\01.ReadThreeIntegers.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\01.ReadThreeIntegers\obj\Debug\01.ReadThreeIntegers.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\01.ReadThreeIntegers\bin\Debug\01.ReadThreeIntegers.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\01.ReadThreeIntegers\bin\Debug\01.ReadThreeIntegers.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\01.ReadThreeIntegers\obj\Debug\01.ReadThreeIntegers.csprojResolveAssemblyReference.cache

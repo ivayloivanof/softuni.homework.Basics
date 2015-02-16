@@ -1,0 +1,9 @@
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb

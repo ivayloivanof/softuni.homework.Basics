@@ -1,0 +1,9 @@
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb
