@@ -1,9 +1,0 @@
-C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\07.Sum of 5 Numbers\bin\Debug\07.Sum of 5 Numbers.exe
-C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\07.Sum of 5 Numbers\bin\Debug\07.Sum of 5 Numbers.pdb
-C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\07.Sum of 5 Numbers\obj\Debug\07.Sum of 5 Numbers.exe
-C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\07.Sum of 5 Numbers\obj\Debug\07.Sum of 5 Numbers.pdb
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\07.Sum of 5 Numbers\obj\Debug\07.Sum of 5 Numbers.exe
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\07.Sum of 5 Numbers\obj\Debug\07.Sum of 5 Numbers.pdb
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\07.Sum of 5 Numbers\bin\Debug\07.Sum of 5 Numbers.exe
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\07.Sum of 5 Numbers\bin\Debug\07.Sum of 5 Numbers.pdb
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\07.Sum of 5 Numbers\obj\Debug\07.Sum of 5 Numbers.csprojResolveAssemblyReference.cache

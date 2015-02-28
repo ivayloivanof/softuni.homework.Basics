@@ -1,8 +1,0 @@
-C:\Users\Administrator\Desktop\4\Console_Input_Output\08.PrintingNIntegers\bin\Debug\08.PrintingNIntegers.exe.config
-C:\Users\Administrator\Desktop\4\Console_Input_Output\08.PrintingNIntegers\bin\Debug\08.PrintingNIntegers.exe
-C:\Users\Administrator\Desktop\4\Console_Input_Output\08.PrintingNIntegers\bin\Debug\08.PrintingNIntegers.pdb
-C:\Users\Administrator\Desktop\4\Console_Input_Output\08.PrintingNIntegers\obj\Debug\08.PrintingNIntegers.exe
-C:\Users\Administrator\Desktop\4\Console_Input_Output\08.PrintingNIntegers\obj\Debug\08.PrintingNIntegers.pdb
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\08.PrintingNIntegers\bin\Debug\08.PrintingNIntegers.exe.config
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\08.PrintingNIntegers\obj\Debug\08.PrintingNIntegers.exe
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\08.PrintingNIntegers\obj\Debug\08.PrintingNIntegers.pdb

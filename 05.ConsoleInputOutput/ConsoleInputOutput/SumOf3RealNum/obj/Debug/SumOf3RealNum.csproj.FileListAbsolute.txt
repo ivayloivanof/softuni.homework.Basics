@@ -1,6 +1,0 @@
-C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\SumOf3RealNum\bin\Debug\SumOf3RealNum.exe.config
-C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\SumOf3RealNum\bin\Debug\SumOf3RealNum.exe
-C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\SumOf3RealNum\bin\Debug\SumOf3RealNum.pdb
-C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\SumOf3RealNum\obj\Debug\SumOf3RealNum.csprojResolveAssemblyReference.cache
-C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\SumOf3RealNum\obj\Debug\SumOf3RealNum.exe
-C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\05.ConsoleInputOutput\ConsoleInputOutput\SumOf3RealNum\obj\Debug\SumOf3RealNum.pdb

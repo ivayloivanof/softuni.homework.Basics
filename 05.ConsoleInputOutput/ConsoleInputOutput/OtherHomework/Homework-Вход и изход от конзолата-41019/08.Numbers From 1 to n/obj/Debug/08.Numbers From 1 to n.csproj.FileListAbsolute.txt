@@ -1,6 +1,0 @@
-C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\08.Numbers From 1 to n\bin\Debug\08.Numbers From 1 to n.exe
-C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\08.Numbers From 1 to n\bin\Debug\08.Numbers From 1 to n.pdb
-C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\08.Numbers From 1 to n\obj\Debug\08.Numbers From 1 to n.exe
-C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\08.Numbers From 1 to n\obj\Debug\08.Numbers From 1 to n.pdb
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\08.Numbers From 1 to n\obj\Debug\08.Numbers From 1 to n.exe
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\08.Numbers From 1 to n\obj\Debug\08.Numbers From 1 to n.pdb

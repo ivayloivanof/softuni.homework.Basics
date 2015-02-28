@@ -1,8 +1,0 @@
-D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\09.SumOfNnumbers\bin\Debug\09.SumOfNnumbers.exe.config
-D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\09.SumOfNnumbers\bin\Debug\09.SumOfNnumbers.exe
-D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\09.SumOfNnumbers\bin\Debug\09.SumOfNnumbers.pdb
-D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\09.SumOfNnumbers\obj\Debug\09.SumOfNnumbers.exe
-D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\09.SumOfNnumbers\obj\Debug\09.SumOfNnumbers.pdb
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\09.SumOfNnumbers\bin\Debug\09.SumOfNnumbers.exe.config
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\09.SumOfNnumbers\obj\Debug\09.SumOfNnumbers.exe
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\09.SumOfNnumbers\obj\Debug\09.SumOfNnumbers.pdb

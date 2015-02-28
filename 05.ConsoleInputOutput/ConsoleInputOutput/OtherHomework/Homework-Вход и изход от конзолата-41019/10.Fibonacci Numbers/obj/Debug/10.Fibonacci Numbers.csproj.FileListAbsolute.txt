@@ -1,6 +1,0 @@
-C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\10.Fibonacci Numbers\bin\Debug\10.Fibonacci Numbers.exe
-C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\10.Fibonacci Numbers\bin\Debug\10.Fibonacci Numbers.pdb
-C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\10.Fibonacci Numbers\obj\Debug\10.Fibonacci Numbers.exe
-C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\10.Fibonacci Numbers\obj\Debug\10.Fibonacci Numbers.pdb
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\10.Fibonacci Numbers\obj\Debug\10.Fibonacci Numbers.exe
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\10.Fibonacci Numbers\obj\Debug\10.Fibonacci Numbers.pdb

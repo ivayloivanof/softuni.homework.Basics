@@ -1,9 +1,0 @@
-D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.exe.config
-D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.exe
-D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.pdb
-D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.csprojResolveAssemblyReference.cache
-D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.exe
-D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.pdb
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.exe.config
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.exe
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.pdb

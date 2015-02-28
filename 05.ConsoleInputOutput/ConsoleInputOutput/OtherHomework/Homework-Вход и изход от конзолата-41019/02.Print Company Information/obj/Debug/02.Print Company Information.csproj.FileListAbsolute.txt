@@ -1,9 +1,0 @@
-c:\users\nidista\documents\visual studio 2013\Projects\Homework4 InputOutput\02.Print Company Information\bin\Debug\02.Print Company Information.exe
-c:\users\nidista\documents\visual studio 2013\Projects\Homework4 InputOutput\02.Print Company Information\bin\Debug\02.Print Company Information.pdb
-c:\users\nidista\documents\visual studio 2013\Projects\Homework4 InputOutput\02.Print Company Information\obj\Debug\02.Print Company Information.exe
-c:\users\nidista\documents\visual studio 2013\Projects\Homework4 InputOutput\02.Print Company Information\obj\Debug\02.Print Company Information.pdb
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\02.Print Company Information\obj\Debug\02.Print Company Information.exe
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\02.Print Company Information\obj\Debug\02.Print Company Information.pdb
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\02.Print Company Information\bin\Debug\02.Print Company Information.exe
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\02.Print Company Information\bin\Debug\02.Print Company Information.pdb
-C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\02.Print Company Information\obj\Debug\02.Print Company Information.csprojResolveAssemblyReference.cache
