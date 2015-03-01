@@ -1,0 +1,6 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\05.CalculateFactorielSum\bin\Debug\05.CalculateFactorielSum.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\05.CalculateFactorielSum\bin\Debug\05.CalculateFactorielSum.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\05.CalculateFactorielSum\bin\Debug\05.CalculateFactorielSum.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\05.CalculateFactorielSum\obj\Debug\05.CalculateFactorialSum.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\05.CalculateFactorielSum\obj\Debug\05.CalculateFactorielSum.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\05.CalculateFactorielSum\obj\Debug\05.CalculateFactorielSum.pdb

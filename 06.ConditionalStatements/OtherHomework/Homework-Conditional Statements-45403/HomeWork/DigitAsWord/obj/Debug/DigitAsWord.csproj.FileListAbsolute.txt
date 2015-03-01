@@ -1,0 +1,8 @@
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\DigitAsWord\bin\Debug\DigitAsWord.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\DigitAsWord\bin\Debug\DigitAsWord.pdb
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\DigitAsWord\obj\Debug\DigitAsWord.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\DigitAsWord\obj\Debug\DigitAsWord.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\DigitAsWord\obj\Debug\DigitAsWord.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\DigitAsWord\obj\Debug\DigitAsWord.pdb

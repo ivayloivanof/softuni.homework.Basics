@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\4\Console_Input_Output\10.SumWithPrecision\bin\Debug\10.SumWithPrecision.exe.config
+C:\Users\Administrator\Desktop\4\Console_Input_Output\10.SumWithPrecision\bin\Debug\10.SumWithPrecision.exe
+C:\Users\Administrator\Desktop\4\Console_Input_Output\10.SumWithPrecision\bin\Debug\10.SumWithPrecision.pdb
+C:\Users\Administrator\Desktop\4\Console_Input_Output\10.SumWithPrecision\obj\Debug\10.SumWithPrecision.exe
+C:\Users\Administrator\Desktop\4\Console_Input_Output\10.SumWithPrecision\obj\Debug\10.SumWithPrecision.pdb
+C:\Users\Administrator\Desktop\4\Console_Input_Output\10.SumWithPrecision\obj\Debug\10.SumWithPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\10.SumWithPrecision\bin\Debug\10.SumWithPrecision.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\10.SumWithPrecision\obj\Debug\10.SumWithPrecision.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\10.SumWithPrecision\obj\Debug\10.SumWithPrecision.pdb

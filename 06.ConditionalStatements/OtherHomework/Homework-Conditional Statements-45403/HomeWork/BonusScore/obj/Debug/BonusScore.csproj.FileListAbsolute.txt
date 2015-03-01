@@ -1,0 +1,8 @@
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\BonusScore\bin\Debug\BonusScore.exe.config
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\BonusScore\bin\Debug\BonusScore.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\BonusScore\bin\Debug\BonusScore.pdb
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\BonusScore\obj\Debug\BonusScore.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\BonusScore\obj\Debug\BonusScore.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\BonusScore\obj\Debug\BonusScore.pdb

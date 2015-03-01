@@ -1,0 +1,5 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\10.MatrixOfNumber\bin\Debug\10.MatrixOfNumber.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\10.MatrixOfNumber\bin\Debug\10.MatrixOfNumber.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\10.MatrixOfNumber\bin\Debug\10.MatrixOfNumber.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\10.MatrixOfNumber\obj\Debug\10.MatrixOfNumber.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\10.MatrixOfNumber\obj\Debug\10.MatrixOfNumber.pdb

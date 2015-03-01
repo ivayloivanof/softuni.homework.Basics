@@ -1,0 +1,9 @@
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\ZeroSubset\bin\Debug\ZeroSubset.exe.config
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\ZeroSubset\bin\Debug\ZeroSubset.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\ZeroSubset\bin\Debug\ZeroSubset.pdb
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\ZeroSubset\obj\Debug\ZeroSubset.csprojResolveAssemblyReference.cache
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\ZeroSubset\obj\Debug\ZeroSubset.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\ZeroSubset\obj\Debug\ZeroSubset.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\ZeroSubset\bin\Debug\ZeroSubset.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\ZeroSubset\obj\Debug\ZeroSubset.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\ZeroSubset\obj\Debug\ZeroSubset.pdb

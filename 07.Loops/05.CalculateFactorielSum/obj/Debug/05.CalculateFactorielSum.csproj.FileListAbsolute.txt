@@ -1,0 +1,1 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\05.CalculateFactorielSum\bin\Debug\05.CalculateFactorielSum.exe.config

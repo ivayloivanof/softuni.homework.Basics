@@ -1,0 +1,8 @@
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\Sort3Numbers\bin\Debug\Sort3Numbers.exe.config
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\Sort3Numbers\bin\Debug\Sort3Numbers.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\Sort3Numbers\bin\Debug\Sort3Numbers.pdb
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\Sort3Numbers\obj\Debug\Sort3Numbers.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\Sort3Numbers\obj\Debug\Sort3Numbers.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\Sort3Numbers\bin\Debug\Sort3Numbers.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\Sort3Numbers\obj\Debug\Sort3Numbers.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\Sort3Numbers\obj\Debug\Sort3Numbers.pdb

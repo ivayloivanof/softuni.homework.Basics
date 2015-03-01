@@ -1,0 +1,9 @@
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\Triangle\bin\Debug\Triangle.exe.config
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\Triangle\bin\Debug\Triangle.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\Triangle\bin\Debug\Triangle.pdb
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\Triangle\obj\Debug\Triangle.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\Triangle\obj\Debug\Triangle.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\Triangle\obj\Debug\Triangle.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\Triangle\obj\Debug\Triangle.pdb

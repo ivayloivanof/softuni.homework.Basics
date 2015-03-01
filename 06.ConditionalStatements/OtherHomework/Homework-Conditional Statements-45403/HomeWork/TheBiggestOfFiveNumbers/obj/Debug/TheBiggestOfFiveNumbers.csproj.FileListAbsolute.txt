@@ -1,0 +1,8 @@
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe.config
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.pdb
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.pdb

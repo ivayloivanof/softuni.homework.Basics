@@ -1,0 +1,6 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\06.ConditionalStatements\06.ConditionalStatements\MagicDates\bin\Debug\MagicDates.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\06.ConditionalStatements\06.ConditionalStatements\MagicDates\obj\Debug\MagicDates.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\06.ConditionalStatements\06.ConditionalStatements\MagicDates\bin\Debug\MagicDates.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\06.ConditionalStatements\06.ConditionalStatements\MagicDates\bin\Debug\MagicDates.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\06.ConditionalStatements\06.ConditionalStatements\MagicDates\obj\Debug\MagicDates.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\06.ConditionalStatements\06.ConditionalStatements\MagicDates\obj\Debug\MagicDates.pdb

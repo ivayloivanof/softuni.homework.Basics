@@ -1,0 +1,8 @@
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb

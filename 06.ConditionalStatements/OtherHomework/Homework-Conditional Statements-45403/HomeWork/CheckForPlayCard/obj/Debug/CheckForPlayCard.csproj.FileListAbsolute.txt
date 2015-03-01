@@ -1,0 +1,8 @@
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\CheckForPlayCard\bin\Debug\CheckForPlayCard.exe.config
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\CheckForPlayCard\bin\Debug\CheckForPlayCard.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\CheckForPlayCard\bin\Debug\CheckForPlayCard.pdb
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\CheckForPlayCard\obj\Debug\CheckForPlayCard.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\CheckForPlayCard\obj\Debug\CheckForPlayCard.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\CheckForPlayCard\bin\Debug\CheckForPlayCard.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\CheckForPlayCard\obj\Debug\CheckForPlayCard.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\CheckForPlayCard\obj\Debug\CheckForPlayCard.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\11.OddAndEvenProduct\bin\Debug\11.OddAndEvenProduct.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\11.OddAndEvenProduct\bin\Debug\11.OddAndEvenProduct.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\11.OddAndEvenProduct\bin\Debug\11.OddAndEvenProduct.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\11.OddAndEvenProduct\obj\Debug\11.OddAndEvenProduct.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\11.OddAndEvenProduct\obj\Debug\11.OddAndEvenProduct.pdb

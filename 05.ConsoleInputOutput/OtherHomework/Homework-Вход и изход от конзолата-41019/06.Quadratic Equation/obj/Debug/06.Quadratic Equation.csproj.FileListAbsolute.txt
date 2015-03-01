@@ -1,0 +1,6 @@
+C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.exe
+C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.pdb
+C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.exe
+C:\Users\Nidista\Documents\Visual Studio 2013\Projects\Homework4 InputOutput\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41019\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.pdb

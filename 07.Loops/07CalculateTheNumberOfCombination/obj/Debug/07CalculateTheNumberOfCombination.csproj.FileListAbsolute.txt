@@ -1,0 +1,6 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\07CalculateTheNumberOfCombination\bin\Debug\07CalculateTheNumberOfCombination.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\07CalculateTheNumberOfCombination\bin\Debug\07CalculateTheNumberOfCombination.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\07CalculateTheNumberOfCombination\bin\Debug\07CalculateTheNumberOfCombination.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\07CalculateTheNumberOfCombination\obj\Debug\07CalculateTheNumberOfCombination.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\07CalculateTheNumberOfCombination\obj\Debug\07CalculateTheNumberOfCombination.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\07CalculateTheNumberOfCombination\obj\Debug\07CalculateTheNumberOfCombination.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\12.RandomNumbersInGivenRange\bin\Debug\12.RandomNumbersInGivenRange.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\12.RandomNumbersInGivenRange\bin\Debug\12.RandomNumbersInGivenRange.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\12.RandomNumbersInGivenRange\bin\Debug\12.RandomNumbersInGivenRange.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\12.RandomNumbersInGivenRange\obj\Debug\12.RandomNumbersInGivenRange.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\12.RandomNumbersInGivenRange\obj\Debug\12.RandomNumbersInGivenRange.pdb

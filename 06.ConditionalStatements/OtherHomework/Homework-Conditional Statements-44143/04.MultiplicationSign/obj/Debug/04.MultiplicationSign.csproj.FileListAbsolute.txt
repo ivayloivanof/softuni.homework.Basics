@@ -1,0 +1,12 @@
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.csprojResolveAssemblyReference.cache
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

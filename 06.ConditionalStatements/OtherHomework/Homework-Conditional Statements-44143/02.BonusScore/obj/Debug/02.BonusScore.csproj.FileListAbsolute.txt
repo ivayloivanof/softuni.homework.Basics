@@ -1,0 +1,11 @@
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.exe
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.pdb
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.exe
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.pdb
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\02.BonusScore\obj\Debug\02.BonusScore.pdb

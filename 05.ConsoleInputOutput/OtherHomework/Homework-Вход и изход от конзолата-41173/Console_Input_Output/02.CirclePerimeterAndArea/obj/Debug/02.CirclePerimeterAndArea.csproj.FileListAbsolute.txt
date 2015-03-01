@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\4\Console_Input_Output\02.CirclePerimeterAndArea\bin\Debug\02.CirclePerimeterAndArea.exe.config
+C:\Users\Administrator\Desktop\4\Console_Input_Output\02.CirclePerimeterAndArea\bin\Debug\02.CirclePerimeterAndArea.exe
+C:\Users\Administrator\Desktop\4\Console_Input_Output\02.CirclePerimeterAndArea\bin\Debug\02.CirclePerimeterAndArea.pdb
+C:\Users\Administrator\Desktop\4\Console_Input_Output\02.CirclePerimeterAndArea\obj\Debug\02.CirclePerimeterAndArea.exe
+C:\Users\Administrator\Desktop\4\Console_Input_Output\02.CirclePerimeterAndArea\obj\Debug\02.CirclePerimeterAndArea.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\02.CirclePerimeterAndArea\bin\Debug\02.CirclePerimeterAndArea.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\02.CirclePerimeterAndArea\obj\Debug\02.CirclePerimeterAndArea.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\02.CirclePerimeterAndArea\obj\Debug\02.CirclePerimeterAndArea.pdb

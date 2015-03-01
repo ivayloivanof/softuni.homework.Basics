@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ExchangeIfGreater", "01.ExchangeIfGreater\01.ExchangeIfGreater.csproj", "{D9C27EF3-D354-412C-9395-7C8603139E6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BonusScore", "02.BonusScore\02.BonusScore.csproj", "{C6AFCCDE-3DD5-4E31-91C3-D6DD9C3EBED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CheckPlayCard", "03.CheckPlayCard\03.CheckPlayCard.csproj", "{F7E0AFB7-3ED4-4D3B-90FD-C6B03D9F2CF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MultiplicationSign", "04.MultiplicationSign\04.MultiplicationSign.csproj", "{A2260331-11E0-44A7-957F-A9C74D71D269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.TheBiggestOf3Numbers", "05.TheBiggestOf3Numbers\05.TheBiggestOf3Numbers.csproj", "{BED57AF4-6040-4691-81B9-50DE88D64C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TheBiggestOf5Numbers", "06.TheBiggestOf5Numbers\06.TheBiggestOf5Numbers.csproj", "{1042B916-0F0F-44E8-85DA-42009089C513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SortNumbers", "07.SortNumbers\07.SortNumbers.csproj", "{1D5AFD6D-79F9-4166-B813-E1647BD31AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.DigitAsWord", "08.DigitAsWord\08.DigitAsWord.csproj", "{9C601EBC-EC57-426F-961F-C36B3F55BB79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PlayWithIntDoubleString", "09.PlayWithIntDoubleString\09.PlayWithIntDoubleString.csproj", "{F92F6510-4356-4EC8-BBEE-B0269EA998CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.BeerTime", "10.BeerTime\10.BeerTime.csproj", "{CEFAE8D6-B1FE-4457-ACEF-51EFE4CFA57F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.NumbersAsWords", "11.NumbersAsWords\11.NumbersAsWords.csproj", "{A323B488-3CB7-4261-AAEB-36C332EF1C0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C27EF3-D354-412C-9395-7C8603139E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C27EF3-D354-412C-9395-7C8603139E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C27EF3-D354-412C-9395-7C8603139E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C27EF3-D354-412C-9395-7C8603139E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AFCCDE-3DD5-4E31-91C3-D6DD9C3EBED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AFCCDE-3DD5-4E31-91C3-D6DD9C3EBED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AFCCDE-3DD5-4E31-91C3-D6DD9C3EBED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AFCCDE-3DD5-4E31-91C3-D6DD9C3EBED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E0AFB7-3ED4-4D3B-90FD-C6B03D9F2CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E0AFB7-3ED4-4D3B-90FD-C6B03D9F2CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E0AFB7-3ED4-4D3B-90FD-C6B03D9F2CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E0AFB7-3ED4-4D3B-90FD-C6B03D9F2CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2260331-11E0-44A7-957F-A9C74D71D269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2260331-11E0-44A7-957F-A9C74D71D269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2260331-11E0-44A7-957F-A9C74D71D269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2260331-11E0-44A7-957F-A9C74D71D269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED57AF4-6040-4691-81B9-50DE88D64C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED57AF4-6040-4691-81B9-50DE88D64C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED57AF4-6040-4691-81B9-50DE88D64C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED57AF4-6040-4691-81B9-50DE88D64C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1042B916-0F0F-44E8-85DA-42009089C513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1042B916-0F0F-44E8-85DA-42009089C513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1042B916-0F0F-44E8-85DA-42009089C513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1042B916-0F0F-44E8-85DA-42009089C513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5AFD6D-79F9-4166-B813-E1647BD31AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5AFD6D-79F9-4166-B813-E1647BD31AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5AFD6D-79F9-4166-B813-E1647BD31AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5AFD6D-79F9-4166-B813-E1647BD31AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C601EBC-EC57-426F-961F-C36B3F55BB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C601EBC-EC57-426F-961F-C36B3F55BB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C601EBC-EC57-426F-961F-C36B3F55BB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C601EBC-EC57-426F-961F-C36B3F55BB79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92F6510-4356-4EC8-BBEE-B0269EA998CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92F6510-4356-4EC8-BBEE-B0269EA998CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92F6510-4356-4EC8-BBEE-B0269EA998CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92F6510-4356-4EC8-BBEE-B0269EA998CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEFAE8D6-B1FE-4457-ACEF-51EFE4CFA57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFAE8D6-B1FE-4457-ACEF-51EFE4CFA57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFAE8D6-B1FE-4457-ACEF-51EFE4CFA57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFAE8D6-B1FE-4457-ACEF-51EFE4CFA57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A323B488-3CB7-4261-AAEB-36C332EF1C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A323B488-3CB7-4261-AAEB-36C332EF1C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A323B488-3CB7-4261-AAEB-36C332EF1C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A323B488-3CB7-4261-AAEB-36C332EF1C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

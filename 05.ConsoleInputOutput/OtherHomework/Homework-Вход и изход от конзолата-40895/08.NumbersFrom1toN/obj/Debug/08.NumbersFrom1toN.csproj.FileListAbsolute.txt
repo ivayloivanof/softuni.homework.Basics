@@ -1,0 +1,8 @@
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe.config
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.pdb
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.exe
+D:\PROGRAMING\HOME BASIC C# ALPHA\05.Console-Input-Output-Homework\05.ConsoleInputOutputHomework\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-40895\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.pdb

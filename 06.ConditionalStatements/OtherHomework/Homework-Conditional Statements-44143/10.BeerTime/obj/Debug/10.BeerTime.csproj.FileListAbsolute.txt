@@ -1,0 +1,14 @@
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\10.BeerTime\bin\Debug\10.BeerTime.exe
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\10.BeerTime\bin\Debug\10.BeerTime.pdb
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.exe
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.pdb
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.exe
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.pdb
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\10.BeerTime\bin\Debug\10.BeerTime.exe
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\10.BeerTime\bin\Debug\10.BeerTime.pdb
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\10.BeerTime\obj\Debug\10.BeerTime.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\10.BeerTime\obj\Debug\10.BeerTime.pdb

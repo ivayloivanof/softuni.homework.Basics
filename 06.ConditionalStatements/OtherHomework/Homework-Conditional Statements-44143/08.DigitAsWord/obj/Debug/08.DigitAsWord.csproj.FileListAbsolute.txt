@@ -1,0 +1,15 @@
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.csprojResolveAssemblyReference.cache
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

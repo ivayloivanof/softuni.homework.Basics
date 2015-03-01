@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\4\Console_Input_Output\04.NumbersPBetweenTwoInt\bin\Debug\04.NumbersPBetweenTwoInt.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Вход и изход от конзолата-41173\Console_Input_Output\04.NumbersPBetweenTwoInt\bin\Debug\04.NumbersPBetweenTwoInt.exe.config

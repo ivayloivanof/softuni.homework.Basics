@@ -1,0 +1,11 @@
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe.config
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.pdb
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.exe
+c:\users\svetli\documents\visual studio 2013\Projects\ConditionalStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.pdb
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe.config
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.exe
+C:\Users\Svetli\Documents\Visual Studio 2013\Projects\05_ConditionalStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-44143\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.pdb

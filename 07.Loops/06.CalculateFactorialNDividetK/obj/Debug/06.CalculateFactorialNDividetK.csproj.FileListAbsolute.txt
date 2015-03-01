@@ -1,0 +1,5 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\06.CalculateFactorialNDividetK\bin\Debug\06.CalculateFactorialNDividetK.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\06.CalculateFactorialNDividetK\bin\Debug\06.CalculateFactorialNDividetK.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\06.CalculateFactorialNDividetK\bin\Debug\06.CalculateFactorialNDividetK.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\06.CalculateFactorialNDividetK\obj\Debug\06.CalculateFactorialNDividetK.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\06.CalculateFactorialNDividetK\obj\Debug\06.CalculateFactorialNDividetK.pdb

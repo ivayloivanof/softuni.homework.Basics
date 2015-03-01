@@ -1,0 +1,5 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\13.RandomizeTheNumber\bin\Debug\13.RandomizeTheNumber.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\13.RandomizeTheNumber\bin\Debug\13.RandomizeTheNumber.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\13.RandomizeTheNumber\bin\Debug\13.RandomizeTheNumber.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\13.RandomizeTheNumber\obj\Debug\13.RandomizeTheNumber.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\13.RandomizeTheNumber\obj\Debug\13.RandomizeTheNumber.pdb

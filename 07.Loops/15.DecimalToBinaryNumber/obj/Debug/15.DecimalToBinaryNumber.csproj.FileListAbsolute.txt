@@ -1,0 +1,5 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\15.DecimalToBinaryNumber\bin\Debug\15.DecimalToBinaryNumber.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\15.DecimalToBinaryNumber\bin\Debug\15.DecimalToBinaryNumber.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\15.DecimalToBinaryNumber\bin\Debug\15.DecimalToBinaryNumber.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\15.DecimalToBinaryNumber\obj\Debug\15.DecimalToBinaryNumber.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\07.Loops\15.DecimalToBinaryNumber\obj\Debug\15.DecimalToBinaryNumber.pdb

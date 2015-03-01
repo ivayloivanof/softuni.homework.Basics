@@ -1,0 +1,8 @@
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\NumbersAsWords\bin\Debug\NumbersAsWords.exe.config
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\NumbersAsWords\bin\Debug\NumbersAsWords.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\NumbersAsWords\bin\Debug\NumbersAsWords.pdb
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\NumbersAsWords\obj\Debug\NumbersAsWords.exe
+D:\Programming\Java Basic Course\January\06-Conditional-Statements\HomeWork\NumbersAsWords\obj\Debug\NumbersAsWords.pdb
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\NumbersAsWords\bin\Debug\NumbersAsWords.exe.config
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\NumbersAsWords\obj\Debug\NumbersAsWords.exe
+C:\Users\Ivaylo Ivanov\Downloads\Homework-Conditional Statements-45403\HomeWork\NumbersAsWords\obj\Debug\NumbersAsWords.pdb
